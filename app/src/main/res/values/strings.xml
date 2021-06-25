@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">AeonLabs Common Libraries</string>
+
+
+    <string name="error_title">Error</string>
+    <string name="error_download_photo">Error downloading Photo</string>
+    <string name="error_upload_photo">Error uploading Photo</string>
+    <string name="error_file_not_found">File not found</string>
+    <string name="error_write_file">Error writing file</string>
+    <string name="error_no_data">No data received</string>
+    <string name="error_ivalid_data">Invalid data received</string>
+    <string name="error_ivalid_url">Invalid url</string>
+    <string name="error_nfc_disabled">NFC is disabled</string>
+    <string name="error_nfc_not_supported">NFC is not supported</string>
+    <string name="error_nfc_ask">Enable NFC in settings?</string>
+    <string name="error_location_disabled">you need to enable location</string>
+    <string name="error_unable_get_location">Não foi possivel obter a localizaçao. Tente passar o cartao novamente.</string>
+    <string name="error_update_msg">There\'s a new version of the App. Click continue to install.</string>
+    <string name="error_update_available">Update available</string>
+    <string name="error_session_expired">Sessão expirou</string>
+    <string name="error_no_camera">Erro ao iniciar a Camera fotografica</string>
+    <string name="error_not_today_date">Selected date is different from today date. Do you want to continue?</string>
+    <string name="error_http_url_invalid">Error parsing destination url</string>
+    <string name="error_http_open_connection">Error opening connection</string>
+    <string name="error_http_request_type">Error setting conn. request type</string>
+    <string name="error_http_preparing_data">Error on preparing data to send</string>
+    <string name="error_http_loading_file">Error loading file</string>
+    <string name="error_http_response">Response error from server</string>
+    <string name="error_http_loading_response">Error loading from server</string>
+    <string name="error_http_empty_response">Error loading from server</string>
+    <string name="error_no_network">Internet not available. try again later.</string>
+    <string name="error_message_box_not_found">Error loading messages</string>
+
+    <!-- about -->
+    <string name="fragment_about_registered_to">This App version is for demonstration purposes only</string>
+    <string name="fragment_about_developer">Developed and maintained by Miguel Silva &#169; 2019</string>
+    <string name="fragment_about_contact">mtpsilva@icloud.com</string>
+    <string name="fragment_about_download">You can download the latest version at \n http://www.sitelogistics.construction</string>
+    <string name="fragment_about_version">Version:</string>
+    <string name="fragment_about_serial" translatable="false">Tablet serial:</string>
+    <string name="fragment_about_title">About</string>
+    <string name="fragment_about_email_choose">Choose email client</string>
+    <string name="fragment_about_email_subject">Contact email from Construction App</string>
+    <string name="fragment_about_email_message">Hello, \n I want to contact you because ... \n Best regards, Your name </string>
+    <string name="fragment_about_testers">Application testers and debuggers</string>
+
+    <!-- common messagens -->
+    <string name="update_required">You need to update the App</string>
+    <string name="update_check">Checkin App version ...</string>
+    <string name="update_ok">You have the latest version </string>
+
+    <string name="alertbox_yes">Yes</string>
+    <string name="alertbox_no">No</string>
+    <string name="alertbox_continue">Continue</string>
+    <string name="alertbox_cancel">Cancel</string>
+    <string name="alertbox_keep_current_date">Keep date</string>
+    <string name="alertbox_change_today">Change to today</string>
+
+    <string name="alertbox_title_question">Question</string>
+    <string name="alertbox_title_notice">Warning</string>
+    <string name="alertbox_title_result">Result</string>
+    <string name="alertbox_title_confirm">Confirmation</string>
+    <string name="alertbox_photo_del_msg">Are you sure you want to remove the photo from the list?</string>
+    <string name="alertbox_photo_del_msg_db">Are you sure you want to delete the photo from the system?</string>
+    <string name="alertbox_add_selected_photo_msg">Add gallery selected photos ?</string>
+    <string name="alertbox_need_select_item">You need to select a record</string>
+    <string name="alertbox_resume_previous_text">Continue with previous editing?</string>
+    <string name="alertbox_discard_changes">you will lose all changes</string>
+    <string name="alertbox_question_retry">Do you want to try again ?</string>
+
+    <string name="button_send_request">Send request</string>
+    <string name="button_send">Send</string>
+    <string name="button_save">Save</string>
+    <string name="button_close">Close</string>
+    <string name="button_continue">Continue</string>
+
+    <string name="commServer_error">Error contacting server!</string>
+    <string name="commServer_check_internet">Check your internet connection and try again</string>
+    <string name="commServer_connect_title_msg">Loading...</string>
+    <string name="commServer_connect_msg">Contacting server</string>
+    <string name="commServer_download_ok">Downloaded sucessfully</string>
+    <string name="commServer_submit_error">Error on submitting request</string>
+    <string name="commServer_submit_ok">Request submitted successfully</string>
+    <string name="commServer_retry">no network. Retry in</string>
+
+    <string name="sendData_added_queue">Added to Queue</string>
+    <string name="sendData_missing_queue">Queue record is missing</string>
+    <string name="sendData_missing_fields">Queue Fields record is missing</string>
+    <string name="sendData_error_encrypt_data">Error Encrypting Data</string>
+    <string name="sendData_error_decrypt_data">Error Decrypting Data</string>
+    <string name="sendData_error_ivector">data cannot be validated (iv mismatch)</string>
+</resources>

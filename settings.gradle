@@ -1,0 +1,2 @@
+rootProject.name = "AeonLabs Common Libraries"
+include ':app'
