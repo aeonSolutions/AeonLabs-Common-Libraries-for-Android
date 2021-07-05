@@ -7,7 +7,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Common-Libraries-for-Android/total?style=for-the-badge)
-![GitHub search hit counter](https://img.shields.io/github/search/aeonSolutions/AeonLabs-Common-Libraries-for-Android/Floating%20Action%20Button?style=for-the-badge)
+![GitHub search hit counter](https://img.shields.io/github/search/aeonSolutions/AeonLabs-Common-Libraries-for-Android/AeonLabs%20Common%20Libraries%20for%20Android?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/aeonSolutions/AeonLabs-Common-Libraries-for-Android?style=for-the-badge)
 
 ### Requirements
