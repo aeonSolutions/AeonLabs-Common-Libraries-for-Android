@@ -19,8 +19,8 @@ libraries in use on AeonLAbs to speed up Android coding process of Standard Andr
 Features:
 - Activity Base
 - Fragment Base
-- CheckSums
-- Local device Data (SqLite)
+- Checksums
+- Local device Data (SQLite)
 - Dialogs
 - Encryption
 - Fonts
