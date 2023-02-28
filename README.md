@@ -42,9 +42,8 @@ If you like this kind of projects and want to stay updated with the latest resea
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ### License
-2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics solutions for open-hardware development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
 
 ### Own a copy of this work
 if you like to own a copy of this work, you can buy it as a NFT or Ethereum. Contact me for more details at mtpsilva@gmail.com
