@@ -1,4 +1,4 @@
-## AeonLabs Common Libraries for Android
+## Common Java Libraries for Android Studio
  
 [![1.0](https://jitpack.io/v/aeonSolutions/AeonLabs-Common-Libraries-for-Android.svg)](https://jitpack.io/#aeonSolutions/AeonLabs-Common-Libraries-for-Android)
 [![](https://jitci.com/gh/aeonSolutions/AeonLabs-Common-Libraries-for-Android/svg)](https://jitci.com/gh/aeonSolutions/AeonLabs-Common-Libraries-for-Android)
